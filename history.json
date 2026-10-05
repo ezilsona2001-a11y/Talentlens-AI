@@ -1,0 +1,285 @@
+[
+  {
+    "id": "20261005142429988560",
+    "candidate": "Abitha",
+    "file_name": "Abitha_Resume.pdf",
+    "date": "2026-10-05 14:24",
+    "jd": "computer engineer",
+    "resume": {
+      "name": "Abitha",
+      "email": "ezilabi2001@gmail.com",
+      "phone": "637955071",
+      "location": "chennai",
+      "skills": [
+        "python",
+        "java",
+        "html",
+        "c++"
+      ],
+      "education": [
+        "b.sc computer engineering"
+      ],
+      "certifications": [],
+      "experience": [
+        "1 year"
+      ],
+      "projects": [],
+      "tools": [],
+      "summary": "data analysis",
+      "file_name": "Abitha_Resume.pdf",
+      "raw_text": "Abitha\ndata analysis\nezilabi2001@gmail.com | 637955071 | chennai\nSKILLS\npython, java, html, c++\nEDUCATION\nb.sc computer engineering\nEXPERIENCE\n1 year"
+    },
+    "match_score": 20,
+    "skills_score": 30,
+    "experience_score": 20,
+    "education_score": 50,
+    "jd_coverage_score": 10,
+    "ats_score": 40,
+    "classification": "Weak Match",
+    "summary": "The resume shows a B.Sc in Computer Engineering and 1 year of experience, but the job description is extremely vague ('computer engineer'). Skills listed include Python, Java, HTML, and C++, which are relevant to computer engineering. However, the resume lacks detail on specific engineering tasks, projects, or technologies, making it difficult to assess fit. Overall, the match is weak due to insufficient evidence of core computer engineering competencies.",
+    "strengths": [
+      "Relevant degree in Computer Engineering",
+      "Programming skills in Python, Java, HTML, and C++",
+      "Some professional experience (1 year)"
+    ],
+    "gaps": [
+      "No specific computer engineering projects or accomplishments listed",
+      "No mention of hardware, embedded systems, or other core computer engineering areas",
+      "Experience details are minimal and lack context"
+    ],
+    "requirements": [
+      {
+        "requirement": "Computer Engineering knowledge",
+        "status": "Insufficient Evidence",
+        "evidence": "B.Sc in Computer Engineering",
+        "explanation": "Degree suggests foundational knowledge, but no specific coursework or projects are provided to confirm practical application."
+      },
+      {
+        "requirement": "Programming skills",
+        "status": "Match",
+        "evidence": "Skills: python, java, html, c++",
+        "explanation": "Candidate lists multiple programming languages relevant to computer engineering."
+      },
+      {
+        "requirement": "Experience",
+        "status": "Insufficient Evidence",
+        "evidence": "1 year",
+        "explanation": "One year of experience is stated, but no details on roles, responsibilities, or achievements are provided."
+      }
+    ],
+    "ats_issues": [
+      "Resume lacks a clear professional summary or objective",
+      "No job titles or company names in experience section",
+      "Missing dates for education and experience",
+      "No quantifiable achievements or project details"
+    ],
+    "ats_fixes": [
+      "Add a professional summary highlighting computer engineering focus",
+      "Include job titles, company names, and dates for experience",
+      "Add dates for education (start and end year)",
+      "Incorporate specific projects and quantifiable results"
+    ],
+    "keywords_to_add": [
+      "computer engineering",
+      "software development",
+      "hardware design",
+      "embedded systems",
+      "algorithms",
+      "data structures",
+      "project management"
+    ],
+    "optimization": [
+      {
+        "issue": "Vague experience description",
+        "exact_improvement": "Replace '1 year' with detailed bullet points: e.g., 'Software Engineer Intern at XYZ Corp (2022-2023): Developed Python scripts for data analysis, reducing processing time by 20%.'",
+        "reason": "Provides concrete evidence of skills and impact, improving relevance to computer engineering roles."
+      },
+      {
+        "issue": "Missing education dates",
+        "exact_improvement": "Add graduation year: e.g., 'B.Sc Computer Engineering, University of Chennai, 2020-2023'",
+        "reason": "ATS systems often require dates to parse education correctly."
+      },
+      {
+        "issue": "No professional summary",
+        "exact_improvement": "Add a 2-3 sentence summary: 'Computer Engineering graduate with 1 year of experience in software development. Proficient in Python, Java, and C++. Seeking to leverage skills in a computer engineer role.'",
+        "reason": "Helps recruiters quickly understand candidate's profile and improves keyword matching."
+      }
+    ],
+    "recommendation": "The candidate is a weak match for a generic 'computer engineer' role due to insufficient detail. To improve, the resume should be expanded with specific projects, technologies, and quantifiable achievements. Tailoring to a more specific job description would also help. Consider adding a portfolio or GitHub link to demonstrate practical skills."
+  },
+  {
+    "id": "20261005142056791220",
+    "candidate": "SONALI",
+    "file_name": "Sonali Resume.pdf.pdf",
+    "date": "2026-10-05 14:20",
+    "jd": "prompt engineering",
+    "resume": {
+      "name": "SONALI",
+      "email": "ezilsona2001@gmail.com",
+      "phone": "9042253263",
+      "location": "",
+      "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Agentic AI",
+        "Prompt Engineering",
+        "Python (Basics)",
+        "Data Cleaning",
+        "Data Preparation",
+        "AI Chatbots",
+        "RAG",
+        "AI Frameworks",
+        "n8n workflow automation",
+        "VS Code",
+        "Communication",
+        "Problem Solving",
+        "Teamwork",
+        "Customer Handling",
+        "Coordination",
+        "Quick Learning"
+      ],
+      "education": [
+        {
+          "degree": "Diploma in Fashion Designing",
+          "institution": "Institute of Design and Technology",
+          "dates": "2018 - 2020"
+        }
+      ],
+      "certifications": [],
+      "experience": [
+        {
+          "title": "Sales Executive",
+          "company": "Joyalukkas",
+          "dates": "Oct 2021 - May 2024",
+          "description": "Managed customer interactions, understood requirements and provided suitable product/ service solutions. Handled leads follow-uos, maintained customer relationships and worked towards achieving sales targets."
+        },
+        {
+          "title": "Sales Coordinator",
+          "company": "CBR Homes",
+          "dates": "Oct 2025 - Mar 2026",
+          "description": "Coordinate customer enquiries, leads, follow ups, and day to day sales activities. Maintained customer records and supported the sales team through effective communication."
+        },
+        {
+          "title": "AI Trainee",
+          "company": "Brand Monk Academy",
+          "dates": "Jul 2026 - Oct 2026",
+          "description": "Hands-on training in AI, Machine Learning, Generative AI, Agentic AI and Python Basics through hands-on training. Worked with Prompt Engineering, RAG, AI Chatbots, Data cleaning, n8n automation, Roboflow and VS Code."
+        }
+      ],
+      "projects": [
+        {
+          "name": "Solo CEO AI - Agentic AI Chatbot",
+          "description": "Developed an Agentic AI chatbot using Python, Prompt Engineering, and CrewAI. Integrated Hugging Face models for AI-driven task processing. Designed the chatbot to understand user requirements, plan tasks, and execute them through AI agents. Built and tested the application using VS Code and deployed the chatbot using Streamlit."
+        },
+        {
+          "name": "Data Cleaning Project",
+          "description": "Cleaned and prepared raw data by handling missing values, duplicate records adn inconsistent data. Organised the data into a clean and usable format for analysis and AI applications."
+        },
+        {
+          "name": "Web Development Project - Mobile shop Website",
+          "description": "Created a mobile shop website to display mobile phones, product details and pricing information. Designed a simple and user-friendly interface for customers to browse and explore mobile products."
+        }
+      ],
+      "tools": [
+        "n8n",
+        "VS Code",
+        "Roboflow",
+        "Streamlit",
+        "Hugging Face",
+        "CrewAI"
+      ],
+      "summary": "Motivated Artificial Intelligence fresher with knowledge of AI, Machine Learning, Generative AI, Agentic AI, Prompt Engineering and Python basics. Passinote about building AI solutions, learning new technologies and solving real-world promblems. Strong communnication, customer handling, teamwork, and problem solving skills gained through sales experience.",
+      "file_name": "Sonali Resume.pdf.pdf",
+      "raw_text": "SONALI\n9042253263   |   ezilsona2001@gmail.com  |  https://www.linkedin.com/in/sonali-e\nOct 2021 - May 2024Sales Executive | Joyalukkas\nManaged customer interactions, understood requirements and provided suitable product/ service solutions.\nHandled leads follow-uos, maintained customer relationships and worked towards achieving sales targets.\nOct  2025 - Mar 2026Sales Coordinator | CBR Homes \nCoordinate customer enquiries, leads, follow ups, and day to day sales activities.\nMaintained customer records and supported the sales team through effective communication.\nJul 2026 - Oct 2026AI Trainee | Brand Monk Academy \nHands-on training in  AI, Machine Learning, Generative AI, Agentic AI and Python Basics through hands-on\ntraining.\nWorked with Prompt Engineering, RAG, AI Chatbots, Data cleaning, n8n automation, Roboflow and VS\nCode.\nPROFESSIONAL EXPERIENCE\nSolo CEO AI - Agentic AI Chatbot \nDeveloped an Agentic AI chatbot using Python, Prompt Engineering, and CrewAI.\nIntegrated Hugging Face models for AI-driven task processing.\nDesigned the chatbot to understand user requirements, plan tasks, and execute them through AI agents.\nBuilt and tested the application using VS Code and deployed the chatbot using Streamlit.\nPROJECTS \n2018 - 2020EDUCATION\nDiploma in Fashion Designing - Institute of Design and Technology \nLanguages: Tamil, English, Malayalam\nLANGUAGES\nTECHINCAL SKILLS \nAI & Generative AI      :\nMotivated Artificial Intelligence fresher with knowledge of AI, Machine Learning, Generative AI, Agentic AI,\nPrompt Engineering and Python basics. Passinote about building AI solutions, learning new technologies and\nsolving real-world promblems. Strong communnication, customer handling, teamwork, and problem solving skills\ngained through sales experience.\nPROFESSIONAL SUMMARY \nAI / ML Fresher | Generative AI | Agentic AI | Prompt Engineering | Python\nArtificial Intelligence | Machine Learning | Generative AI | Agentic AI\nProgramming              :\nData Handling             :\nAI Development          :\nPython  (Basics)\nData Cleaning  |  Data Preparation\nPrompt Engineering | AI Chatbots | RAG | AI Frameworks \nAutomation  & Tools  : n8n workflow automation  |  VS Code                         :\nData Cleaning Project \nCleaned and prepared raw data by handling missing values, duplicate records adn inconsistent data.\nOrganised the data into a clean and usable format for analysis and AI applications.\nWeb Development Project - Mobile shop Website \nCreated a mobile shop website to display mobile phones, product details and pricing information.\nDesigned a simple and user-friendly interface for customers to browse and explore mobile products.\nCommunication | Problem Solving | Teamwork | Customer Handling | Coordination | Quick Learning\nCORE STRENGTHS"
+    },
+    "match_score": 62,
+    "skills_score": 70,
+    "experience_score": 45,
+    "education_score": 40,
+    "jd_coverage_score": 65,
+    "ats_score": 55,
+    "classification": "Moderate Match",
+    "summary": "The candidate is an AI fresher with hands-on training and project experience in Prompt Engineering, Generative AI, Agentic AI, RAG, AI chatbots, and Python basics. The resume directly mentions Prompt Engineering in both training and project work, which aligns with the job description. However, the job description is extremely brief and only states 'prompt engineering', so many requirement details are unclear. The candidate's professional background is primarily in sales, with AI experience coming from a short training program and personal projects. ATS formatting issues and typos reduce the resume's effectiveness.",
+    "strengths": [
+      "Directly mentions Prompt Engineering in AI training and in an Agentic AI chatbot project.",
+      "Hands-on exposure to Generative AI, Agentic AI, RAG, AI chatbots, and AI frameworks such as CrewAI.",
+      "Project experience integrating Hugging Face models and deploying a chatbot using Streamlit.",
+      "Additional relevant tools: n8n automation, Roboflow, VS Code, Python basics, data cleaning.",
+      "Strong communication, customer handling, teamwork, and problem-solving skills from sales experience."
+    ],
+    "gaps": [
+      "No formal degree or certification specifically in prompt engineering, AI, or computer science; education is a Diploma in Fashion Designing.",
+      "AI experience is at fresher/training level rather than professional employment.",
+      "Job description provides no detailed requirements, so depth of prompt engineering expertise cannot be fully assessed.",
+      "Resume contains typos and formatting issues that may affect ATS parsing and recruiter perception."
+    ],
+    "requirements": [
+      {
+        "requirement": "Prompt Engineering",
+        "status": "Match",
+        "evidence": "Worked with Prompt Engineering, RAG, AI Chatbots...; Developed an Agentic AI chatbot using Python, Prompt Engineering, and CrewAI.",
+        "explanation": "The resume explicitly lists Prompt Engineering as part of AI training and as a core technique used in a project, directly satisfying the stated job requirement."
+      }
+    ],
+    "ats_issues": [
+      "Resume text appears to have inconsistent spacing and formatting, which may confuse ATS parsers.",
+      "Typos such as 'follow-uos', 'adn', 'communnication', 'promblems', 'Passinote', 'TECHINCAL' may reduce keyword matching and credibility.",
+      "Section headers and dates are not consistently formatted, making timeline parsing difficult.",
+      "Contact information and links are present but not clearly labeled, which may affect ATS extraction.",
+      "Skills are listed in a non-standard layout with colons and line breaks that may not parse cleanly."
+    ],
+    "ats_fixes": [
+      "Use a clean, single-column resume format with standard section headings: Summary, Skills, Experience, Projects, Education.",
+      "Correct all spelling and grammar errors throughout the resume.",
+      "Standardize date formats (e.g., 'Oct 2021 – May 2024') and align them consistently.",
+      "List skills as simple comma-separated keywords under a 'Skills' heading.",
+      "Ensure contact details are on separate lines with clear labels: Phone, Email, LinkedIn."
+    ],
+    "keywords_to_add": [
+      "Prompt Engineering",
+      "Large Language Models (LLMs)",
+      "Prompt Design",
+      "Prompt Optimization",
+      "Few-shot prompting",
+      "Chain-of-thought prompting",
+      "Generative AI",
+      "Agentic AI",
+      "RAG",
+      "AI Chatbots",
+      "Python",
+      "CrewAI",
+      "Hugging Face",
+      "Streamlit",
+      "n8n",
+      "Roboflow",
+      "VS Code",
+      "Data Cleaning",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "optimization": [
+      {
+        "issue": "Prompt Engineering experience is mentioned but not detailed with specific techniques or outcomes.",
+        "exact_improvement": "Add bullet points under the AI Trainee and Solo CEO AI project that specify prompt engineering techniques used, such as few-shot prompting, chain-of-thought, prompt templates, and evaluation of prompt performance.",
+        "reason": "Demonstrates depth and practical application of prompt engineering, making the match more credible to recruiters and ATS."
+      },
+      {
+        "issue": "Resume contains multiple typos and inconsistent formatting.",
+        "exact_improvement": "Proofread and correct all text; use consistent bullet points, spacing, and capitalization.",
+        "reason": "Improves readability, professionalism, and ATS parsing accuracy."
+      },
+      {
+        "issue": "Professional summary is generic and contains spelling errors.",
+        "exact_improvement": "Rewrite the summary to explicitly highlight prompt engineering skills and AI project experience, e.g., 'AI fresher with hands-on Prompt Engineering experience building Agentic AI chatbots using CrewAI, Hugging Face, and Streamlit.'",
+        "reason": "Aligns the summary directly with the job requirement and improves keyword density."
+      },
+      {
+        "issue": "Skills section is cluttered and not ATS-friendly.",
+        "exact_improvement": "Reformat skills into a simple comma-separated list under clear categories: AI/ML, Programming, Tools, Soft Skills.",
+        "reason": "Makes it easier for ATS to extract relevant keywords and for recruiters to quickly scan."
+      }
+    ],
+    "recommendation": "Consider for an entry-level or internship prompt engineering role, but verify depth of prompt engineering skills in an interview. The candidate shows direct exposure to prompt engineering through training and a project, but lacks professional AI experience and formal AI education. Resume should be cleaned up for ATS and typos corrected before submission."
+  }
+]
